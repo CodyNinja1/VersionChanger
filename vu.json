@@ -1,0 +1,8 @@
+{
+    "extentions": ["*.php","*.scss","*.js","style.css"],
+    "ignore": ["node_modules","vendor"],
+    "version": "1.3.3 beta",
+    "iterations": 6,
+    "encoding": "utf-8",
+    "logFile": "VULog.log"
+}
