@@ -1,5 +1,5 @@
 # VersionChanger
-This python file (equipped with a `vu.json` configuration file) can edit the versions of multiple files (given that the version is written like `" * @version"`), this could be helpful when working with wordpress files.
+This python file (equipped with a `vu.json` configuration file) can edit the versions of multiple files (given that the version is written like `" * @version"`).
 ## Usage:
 Make sure that vu.json is configured like this:
 - `"extentions"` is the extentions of the files where they need their versions updated.
